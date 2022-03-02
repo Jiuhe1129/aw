@@ -16,7 +16,7 @@ body {margin: 0 auto; font-family: '宋体';}
 .nav .guan:hover{background:#5c6b8180;}
  
 /* 侧导航 */
-.cdh ul{width: 100px; height: 26.5vh; color: #fff; position: fixed;  right: -10%; top: 45%; background: #1A293C; overflow: hidden; transition: .6s; z-index: 99;}
+.cdh ul{width: 100px; height: 26.4vh; color: #fff; position: fixed;  right: -10%; top: 45%; background: #1A293C; overflow: hidden; transition: .6s; z-index: 99;}
 .cdh li{line-height: 50px; font-size: 18px; text-align: center; border-bottom: 1px solid rgba(255, 255, 255, 0.521); transition: .5s;}
 .cdh li:hover{background:#5c6b8180;}
 
