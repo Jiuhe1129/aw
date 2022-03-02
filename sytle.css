@@ -70,16 +70,23 @@ body {margin: 0 auto; font-family: '宋体';}
 .yxlm ul li{text-align: center;}
 
 .zpjs{height: 30px; padding-top: 10px; color: #fff; background: url(img/zpjsbg.png); background-size: 100% 100%;}
-.yx,.sszy,.yxzj,.kda{width: 400px; height: 200px; overflow: hidden;}
+.zp{width: 400px; height: 200px; overflow: hidden;}
+.grzp-b .zp{width: 400px; height: 170px; overflow: hidden;}
 
-.yx{background: url(img/yxlm.png) no-repeat center; background-size: 88%; transition: .6s;}
+
+.yx  {background: url(img/yxlm.png) no-repeat center; background-size: 88%; transition: .6s;}
 .sszy{background: url(img/ls.png) no-repeat center; background-size: 88%; transition: .6s;}
 .yxzj{background: url(img/yasuo.png) no-repeat center; background-size: 88%; transition: .6s;}
-.kda{background: url(img/kda.png) no-repeat center; background-size: 88%; transition: .6s;}
+.kda {background: url(img/kda.png) no-repeat center; background-size: 88%; transition: .6s;}
+.zp-a{background: url(img/zp-a.jpg) no-repeat center; background-size: 88%; transition: .6s;}
+.zp-b{background: url(img/zp-b.jpg) no-repeat center; background-size: 88%; transition: .6s;}
+.zp-c{background: url(img/zp-c.jpg) no-repeat center; background-size: 88%; transition: .6s;}
+.zp-d{background: url(img/35802283b7073c87cc4a41444fecb88.jpg) no-repeat center; background-size: 88%; transition: .6s;}
 .yx:hover{background-size: 100%;}
 .sszy:hover{background-size: 100%;}
-.yxzj:hover:hover{background-size: 100%;}
+.yxzj:hover{background-size: 100%;}
 .kda:hover{background-size: 100%;}
+.zp:hover{background-size: 100%;}
 
 /* 页尾 */
 .footer{

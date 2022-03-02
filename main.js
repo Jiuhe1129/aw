@@ -1,13 +1,13 @@
-// $(function () {
-//     var num = -1920;//向左走  每次定时器加这个值
-//     setInterval(function () {
-//         var num1 = $(".inner > ul").position().left + num;
-//         if (num1 <= -5760) {
-//             num1 = 0;
-//         }
-//         $(".inner > ul").animate({ "left": num1 }, 100)
-//     }, 3000)
-// })
+$(function () {
+    var num = -1920;//向左走  每次定时器加这个值
+    setInterval(function () {
+        var num1 = $(".inner > ul").position().left + num;
+        if (num1 <= -5760) {
+            num1 = 0;
+        }
+        $(".inner > ul").animate({ "left": num1 }, 100)
+    }, 3000)
+})
 
 
 $(".zxc").click(function () {
